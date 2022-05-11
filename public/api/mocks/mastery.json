@@ -1,0 +1,817 @@
+{
+  "data": {
+    "type": "weaponMasterySummary",
+    "id": "account.7569100ed55f4406bfe2322bccd8e837",
+    "attributes": {
+      "platform": "console",
+      "seasonId": "",
+      "weaponSummaries": {
+        "Item_Weapon_ACE32_C": {
+          "XPTotal": 12064,
+          "LevelCurrent": 5,
+          "TierCurrent": 1,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 3,
+            "Defeats": 4,
+            "MostDamagePlayerInAGame": 280.65978813171387,
+            "DamagePlayer": 428.52478218078613,
+            "MostHeadShotsInAGame": 1,
+            "HeadShots": 2,
+            "LongestDefeat": 194.0970916748047,
+            "LongRangeDefeats": 3,
+            "Kills": 4,
+            "MostKillsInAGame": 3,
+            "Groggies": 0,
+            "MostGroggiesInAGame": 0
+          },
+          "Medals": null
+        },
+        "Item_Weapon_AK47_C": {
+          "XPTotal": 277142,
+          "LevelCurrent": 44,
+          "TierCurrent": 5,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 6,
+            "Defeats": 116,
+            "MostDamagePlayerInAGame": 493.2493906021118,
+            "DamagePlayer": 10937.099041938782,
+            "MostHeadShotsInAGame": 4,
+            "HeadShots": 38,
+            "LongestDefeat": 244.6627960205078,
+            "LongRangeDefeats": 15,
+            "Kills": 116,
+            "MostKillsInAGame": 6,
+            "Groggies": 2,
+            "MostGroggiesInAGame": 1
+          },
+          "Medals": null
+        },
+        "Item_Weapon_AUG_C": {
+          "XPTotal": 10043,
+          "LevelCurrent": 5,
+          "TierCurrent": 1,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 1,
+            "Defeats": 2,
+            "MostDamagePlayerInAGame": 88.80430793762207,
+            "DamagePlayer": 312.6943054199219,
+            "MostHeadShotsInAGame": 2,
+            "HeadShots": 2,
+            "LongestDefeat": 19.548494338989258,
+            "LongRangeDefeats": 0,
+            "Kills": 2,
+            "MostKillsInAGame": 1,
+            "Groggies": 0,
+            "MostGroggiesInAGame": 0
+          },
+          "Medals": null
+        },
+        "Item_Weapon_AWM_C": {
+          "XPTotal": 5957,
+          "LevelCurrent": 3,
+          "TierCurrent": 1,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 2,
+            "Defeats": 2,
+            "MostDamagePlayerInAGame": 175,
+            "DamagePlayer": 256.8999938964844,
+            "MostHeadShotsInAGame": 0,
+            "HeadShots": 0,
+            "LongestDefeat": 118.89253997802734,
+            "LongRangeDefeats": 1,
+            "Kills": 2,
+            "MostKillsInAGame": 2,
+            "Groggies": 0,
+            "MostGroggiesInAGame": 0
+          },
+          "Medals": null
+        },
+        "Item_Weapon_Berreta686_C": {
+          "XPTotal": 4037,
+          "LevelCurrent": 2,
+          "TierCurrent": 1,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 2,
+            "Defeats": 2,
+            "MostDamagePlayerInAGame": 168.02000045776367,
+            "DamagePlayer": 168.02000045776367,
+            "MostHeadShotsInAGame": 0,
+            "HeadShots": 0,
+            "LongestDefeat": 22.038063049316406,
+            "LongRangeDefeats": 0,
+            "Kills": 2,
+            "MostKillsInAGame": 2,
+            "Groggies": 0,
+            "MostGroggiesInAGame": 0
+          },
+          "Medals": null
+        },
+        "Item_Weapon_BerylM762_C": {
+          "XPTotal": 67058,
+          "LevelCurrent": 18,
+          "TierCurrent": 2,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 6,
+            "Defeats": 24,
+            "MostDamagePlayerInAGame": 496.5337333679199,
+            "DamagePlayer": 2702.597438812256,
+            "MostHeadShotsInAGame": 3,
+            "HeadShots": 9,
+            "LongestDefeat": 102.46073150634766,
+            "LongRangeDefeats": 1,
+            "Kills": 24,
+            "MostKillsInAGame": 6,
+            "Groggies": 0,
+            "MostGroggiesInAGame": 0
+          },
+          "Medals": null
+        },
+        "Item_Weapon_BizonPP19_C": {
+          "XPTotal": 5469,
+          "LevelCurrent": 3,
+          "TierCurrent": 1,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 1,
+            "Defeats": 2,
+            "MostDamagePlayerInAGame": 99.99999618530273,
+            "DamagePlayer": 198.7773838043213,
+            "MostHeadShotsInAGame": 0,
+            "HeadShots": 0,
+            "LongestDefeat": 6.16278076171875,
+            "LongRangeDefeats": 0,
+            "Kills": 2,
+            "MostKillsInAGame": 1,
+            "Groggies": 0,
+            "MostGroggiesInAGame": 0
+          },
+          "Medals": null
+        },
+        "Item_Weapon_DP28_C": {
+          "XPTotal": 39047,
+          "LevelCurrent": 13,
+          "TierCurrent": 2,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 3,
+            "Defeats": 11,
+            "MostDamagePlayerInAGame": 238.80000114440918,
+            "DamagePlayer": 1216.8999996185303,
+            "MostHeadShotsInAGame": 1,
+            "HeadShots": 3,
+            "LongestDefeat": 61.589927673339844,
+            "LongRangeDefeats": 0,
+            "Kills": 11,
+            "MostKillsInAGame": 3,
+            "Groggies": 2,
+            "MostGroggiesInAGame": 2
+          },
+          "Medals": null
+        },
+        "Item_Weapon_DesertEagle_C": {
+          "XPTotal": 2122,
+          "LevelCurrent": 1,
+          "TierCurrent": 1,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 1,
+            "Defeats": 1,
+            "MostDamagePlayerInAGame": 100,
+            "DamagePlayer": 100,
+            "MostHeadShotsInAGame": 0,
+            "HeadShots": 0,
+            "LongestDefeat": 2.2158761024475098,
+            "LongRangeDefeats": 0,
+            "Kills": 1,
+            "MostKillsInAGame": 1,
+            "Groggies": 0,
+            "MostGroggiesInAGame": 0
+          },
+          "Medals": null
+        },
+        "Item_Weapon_FNFal_C": {
+          "XPTotal": 30016,
+          "LevelCurrent": 11,
+          "TierCurrent": 2,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 3,
+            "Defeats": 7,
+            "MostDamagePlayerInAGame": 390.0878143310547,
+            "DamagePlayer": 934.186674118042,
+            "MostHeadShotsInAGame": 1,
+            "HeadShots": 2,
+            "LongestDefeat": 113.47200012207031,
+            "LongRangeDefeats": 3,
+            "Kills": 7,
+            "MostKillsInAGame": 3,
+            "Groggies": 0,
+            "MostGroggiesInAGame": 0
+          },
+          "Medals": null
+        },
+        "Item_Weapon_G36C_C": {
+          "XPTotal": 179460,
+          "LevelCurrent": 33,
+          "TierCurrent": 4,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 5,
+            "Defeats": 64,
+            "MostDamagePlayerInAGame": 516.3675088882446,
+            "DamagePlayer": 5962.9051904678345,
+            "MostHeadShotsInAGame": 4,
+            "HeadShots": 22,
+            "LongestDefeat": 133.9935760498047,
+            "LongRangeDefeats": 1,
+            "Kills": 64,
+            "MostKillsInAGame": 5,
+            "Groggies": 0,
+            "MostGroggiesInAGame": 0
+          },
+          "Medals": null
+        },
+        "Item_Weapon_Groza_C": {
+          "XPTotal": 2648,
+          "LevelCurrent": 2,
+          "TierCurrent": 1,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 1,
+            "Defeats": 1,
+            "MostDamagePlayerInAGame": 99.9999942779541,
+            "DamagePlayer": 99.9999942779541,
+            "MostHeadShotsInAGame": 0,
+            "HeadShots": 0,
+            "LongestDefeat": 24.940855026245117,
+            "LongRangeDefeats": 0,
+            "Kills": 1,
+            "MostKillsInAGame": 1,
+            "Groggies": 0,
+            "MostGroggiesInAGame": 0
+          },
+          "Medals": null
+        },
+        "Item_Weapon_HK416_C": {
+          "XPTotal": 585058,
+          "LevelCurrent": 73,
+          "TierCurrent": 8,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 7,
+            "Defeats": 224,
+            "MostDamagePlayerInAGame": 697.6015214920044,
+            "DamagePlayer": 21935.349002718925,
+            "MostHeadShotsInAGame": 4,
+            "HeadShots": 89,
+            "LongestDefeat": 246.99720764160156,
+            "LongRangeDefeats": 34,
+            "Kills": 223,
+            "MostKillsInAGame": 7,
+            "Groggies": 5,
+            "MostGroggiesInAGame": 1
+          },
+          "Medals": null
+        },
+        "Item_Weapon_K2_C": {
+          "XPTotal": 40706,
+          "LevelCurrent": 13,
+          "TierCurrent": 2,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 5,
+            "Defeats": 15,
+            "MostDamagePlayerInAGame": 313.00019454956055,
+            "DamagePlayer": 1234.5002975463867,
+            "MostHeadShotsInAGame": 2,
+            "HeadShots": 5,
+            "LongestDefeat": 202.39181518554688,
+            "LongRangeDefeats": 4,
+            "Kills": 15,
+            "MostKillsInAGame": 5,
+            "Groggies": 0,
+            "MostGroggiesInAGame": 0
+          },
+          "Medals": null
+        },
+        "Item_Weapon_Kar98k_C": {
+          "XPTotal": 42528,
+          "LevelCurrent": 14,
+          "TierCurrent": 2,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 2,
+            "Defeats": 9,
+            "MostDamagePlayerInAGame": 258.78199768066406,
+            "DamagePlayer": 1358.466220855713,
+            "MostHeadShotsInAGame": 2,
+            "HeadShots": 5,
+            "LongestDefeat": 154.19139099121094,
+            "LongRangeDefeats": 3,
+            "Kills": 10,
+            "MostKillsInAGame": 2,
+            "Groggies": 0,
+            "MostGroggiesInAGame": 0
+          },
+          "Medals": null
+        },
+        "Item_Weapon_M16A4_C": {
+          "XPTotal": 164911,
+          "LevelCurrent": 32,
+          "TierCurrent": 4,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 6,
+            "Defeats": 58,
+            "MostDamagePlayerInAGame": 411.6033868789673,
+            "DamagePlayer": 5106.544776916504,
+            "MostHeadShotsInAGame": 3,
+            "HeadShots": 16,
+            "LongestDefeat": 184.84930419921875,
+            "LongRangeDefeats": 6,
+            "Kills": 58,
+            "MostKillsInAGame": 6,
+            "Groggies": 0,
+            "MostGroggiesInAGame": 0
+          },
+          "Medals": null
+        },
+        "Item_Weapon_M1911_C": {
+          "XPTotal": 19272,
+          "LevelCurrent": 8,
+          "TierCurrent": 1,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 1,
+            "Defeats": 7,
+            "MostDamagePlayerInAGame": 100.00000190734863,
+            "DamagePlayer": 690.6392688751221,
+            "MostHeadShotsInAGame": 0,
+            "HeadShots": 0,
+            "LongestDefeat": 42.91448211669922,
+            "LongRangeDefeats": 0,
+            "Kills": 7,
+            "MostKillsInAGame": 1,
+            "Groggies": 1,
+            "MostGroggiesInAGame": 1
+          },
+          "Medals": null
+        },
+        "Item_Weapon_M249_C": {
+          "XPTotal": 245825,
+          "LevelCurrent": 41,
+          "TierCurrent": 5,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 5,
+            "Defeats": 71,
+            "MostDamagePlayerInAGame": 471.6000061035156,
+            "DamagePlayer": 7040.235537528992,
+            "MostHeadShotsInAGame": 3,
+            "HeadShots": 25,
+            "LongestDefeat": 132.0620574951172,
+            "LongRangeDefeats": 2,
+            "Kills": 71,
+            "MostKillsInAGame": 5,
+            "Groggies": 5,
+            "MostGroggiesInAGame": 3
+          },
+          "Medals": null
+        },
+        "Item_Weapon_M24_C": {
+          "XPTotal": 75222,
+          "LevelCurrent": 20,
+          "TierCurrent": 3,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 3,
+            "Defeats": 24,
+            "MostDamagePlayerInAGame": 310.71800231933594,
+            "DamagePlayer": 2455.9227302074432,
+            "MostHeadShotsInAGame": 2,
+            "HeadShots": 10,
+            "LongestDefeat": 323.66400146484375,
+            "LongRangeDefeats": 5,
+            "Kills": 24,
+            "MostKillsInAGame": 3,
+            "Groggies": 1,
+            "MostGroggiesInAGame": 1
+          },
+          "Medals": null
+        },
+        "Item_Weapon_M9_C": {
+          "XPTotal": 2529,
+          "LevelCurrent": 2,
+          "TierCurrent": 1,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 1,
+            "Defeats": 1,
+            "MostDamagePlayerInAGame": 51.6250114440918,
+            "DamagePlayer": 51.6250114440918,
+            "MostHeadShotsInAGame": 1,
+            "HeadShots": 1,
+            "LongestDefeat": 20.711875915527344,
+            "LongRangeDefeats": 0,
+            "Kills": 1,
+            "MostKillsInAGame": 1,
+            "Groggies": 0,
+            "MostGroggiesInAGame": 0
+          },
+          "Medals": null
+        },
+        "Item_Weapon_MG3_C": {
+          "XPTotal": 10318,
+          "LevelCurrent": 5,
+          "TierCurrent": 1,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 2,
+            "Defeats": 2,
+            "MostDamagePlayerInAGame": 133.00008392333984,
+            "DamagePlayer": 250.99157905578613,
+            "MostHeadShotsInAGame": 2,
+            "HeadShots": 2,
+            "LongestDefeat": 56.601036071777344,
+            "LongRangeDefeats": 0,
+            "Kills": 2,
+            "MostKillsInAGame": 2,
+            "Groggies": 0,
+            "MostGroggiesInAGame": 0
+          },
+          "Medals": null
+        },
+        "Item_Weapon_MP5K_C": {
+          "XPTotal": 15300,
+          "LevelCurrent": 7,
+          "TierCurrent": 1,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 4,
+            "Defeats": 8,
+            "MostDamagePlayerInAGame": 342.5475025177002,
+            "DamagePlayer": 704.1225566864014,
+            "MostHeadShotsInAGame": 2,
+            "HeadShots": 3,
+            "LongestDefeat": 120.15739440917969,
+            "LongRangeDefeats": 1,
+            "Kills": 8,
+            "MostKillsInAGame": 4,
+            "Groggies": 0,
+            "MostGroggiesInAGame": 0
+          },
+          "Medals": null
+        },
+        "Item_Weapon_Mini14_C": {
+          "XPTotal": 38784,
+          "LevelCurrent": 13,
+          "TierCurrent": 2,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 5,
+            "Defeats": 11,
+            "MostDamagePlayerInAGame": 440.81282234191895,
+            "DamagePlayer": 903.0164499282837,
+            "MostHeadShotsInAGame": 4,
+            "HeadShots": 6,
+            "LongestDefeat": 291.95135498046875,
+            "LongRangeDefeats": 4,
+            "Kills": 11,
+            "MostKillsInAGame": 5,
+            "Groggies": 0,
+            "MostGroggiesInAGame": 0
+          },
+          "Medals": null
+        },
+        "Item_Weapon_Mk12_C": {
+          "XPTotal": 89129,
+          "LevelCurrent": 22,
+          "TierCurrent": 3,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 4,
+            "Defeats": 23,
+            "MostDamagePlayerInAGame": 290.9630355834961,
+            "DamagePlayer": 2602.74267578125,
+            "MostHeadShotsInAGame": 2,
+            "HeadShots": 11,
+            "LongestDefeat": 289.6664733886719,
+            "LongRangeDefeats": 6,
+            "Kills": 22,
+            "MostKillsInAGame": 4,
+            "Groggies": 1,
+            "MostGroggiesInAGame": 1
+          },
+          "Medals": null
+        },
+        "Item_Weapon_Mk14_C": {
+          "XPTotal": 3779,
+          "LevelCurrent": 2,
+          "TierCurrent": 1,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 1,
+            "Defeats": 1,
+            "MostDamagePlayerInAGame": 100,
+            "DamagePlayer": 173.1999969482422,
+            "MostHeadShotsInAGame": 0,
+            "HeadShots": 0,
+            "LongestDefeat": 87.28877258300781,
+            "LongRangeDefeats": 0,
+            "Kills": 1,
+            "MostKillsInAGame": 1,
+            "Groggies": 0,
+            "MostGroggiesInAGame": 0
+          },
+          "Medals": null
+        },
+        "Item_Weapon_Mk47Mutant_C": {
+          "XPTotal": 29195,
+          "LevelCurrent": 11,
+          "TierCurrent": 2,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 2,
+            "Defeats": 8,
+            "MostDamagePlayerInAGame": 200.00000190734863,
+            "DamagePlayer": 845.7603912353516,
+            "MostHeadShotsInAGame": 1,
+            "HeadShots": 2,
+            "LongestDefeat": 53.128334045410156,
+            "LongRangeDefeats": 0,
+            "Kills": 8,
+            "MostKillsInAGame": 2,
+            "Groggies": 0,
+            "MostGroggiesInAGame": 0
+          },
+          "Medals": null
+        },
+        "Item_Weapon_Mosin_C": {
+          "XPTotal": 25016,
+          "LevelCurrent": 10,
+          "TierCurrent": 2,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 3,
+            "Defeats": 6,
+            "MostDamagePlayerInAGame": 351.81053161621094,
+            "DamagePlayer": 766.0370254516602,
+            "MostHeadShotsInAGame": 2,
+            "HeadShots": 3,
+            "LongestDefeat": 120.99371337890625,
+            "LongRangeDefeats": 3,
+            "Kills": 6,
+            "MostKillsInAGame": 3,
+            "Groggies": 0,
+            "MostGroggiesInAGame": 0
+          },
+          "Medals": null
+        },
+        "Item_Weapon_NagantM1895_C": {
+          "XPTotal": 1940,
+          "LevelCurrent": 1,
+          "TierCurrent": 1,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 0,
+            "Defeats": 0,
+            "MostDamagePlayerInAGame": 82.35105895996094,
+            "DamagePlayer": 82.35105895996094,
+            "MostHeadShotsInAGame": 1,
+            "HeadShots": 1,
+            "LongestDefeat": 0,
+            "LongRangeDefeats": 0,
+            "Kills": 0,
+            "MostKillsInAGame": 0,
+            "Groggies": 0,
+            "MostGroggiesInAGame": 0
+          },
+          "Medals": null
+        },
+        "Item_Weapon_P90_C": {
+          "XPTotal": 11785,
+          "LevelCurrent": 5,
+          "TierCurrent": 1,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 2,
+            "Defeats": 4,
+            "MostDamagePlayerInAGame": 242.91998672485352,
+            "DamagePlayer": 491.019983291626,
+            "MostHeadShotsInAGame": 1,
+            "HeadShots": 1,
+            "LongestDefeat": 19.417625427246094,
+            "LongRangeDefeats": 0,
+            "Kills": 4,
+            "MostKillsInAGame": 2,
+            "Groggies": 0,
+            "MostGroggiesInAGame": 0
+          },
+          "Medals": null
+        },
+        "Item_Weapon_QBU88_C": {
+          "XPTotal": 16641,
+          "LevelCurrent": 7,
+          "TierCurrent": 1,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 5,
+            "Defeats": 6,
+            "MostDamagePlayerInAGame": 411.6221694946289,
+            "DamagePlayer": 413.27466678619385,
+            "MostHeadShotsInAGame": 2,
+            "HeadShots": 2,
+            "LongestDefeat": 136.26283264160156,
+            "LongRangeDefeats": 2,
+            "Kills": 6,
+            "MostKillsInAGame": 5,
+            "Groggies": 0,
+            "MostGroggiesInAGame": 0
+          },
+          "Medals": null
+        },
+        "Item_Weapon_QBZ95_C": {
+          "XPTotal": 43521,
+          "LevelCurrent": 14,
+          "TierCurrent": 2,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 5,
+            "Defeats": 21,
+            "MostDamagePlayerInAGame": 467.60847568511963,
+            "DamagePlayer": 2134.2926721572876,
+            "MostHeadShotsInAGame": 3,
+            "HeadShots": 8,
+            "LongestDefeat": 67.42618560791016,
+            "LongRangeDefeats": 0,
+            "Kills": 21,
+            "MostKillsInAGame": 5,
+            "Groggies": 2,
+            "MostGroggiesInAGame": 2
+          },
+          "Medals": null
+        },
+        "Item_Weapon_SCAR-L_C": {
+          "XPTotal": 142914,
+          "LevelCurrent": 29,
+          "TierCurrent": 3,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 4,
+            "Defeats": 46,
+            "MostDamagePlayerInAGame": 295.06449246406555,
+            "DamagePlayer": 4115.298366785049,
+            "MostHeadShotsInAGame": 2,
+            "HeadShots": 10,
+            "LongestDefeat": 147.69175720214844,
+            "LongRangeDefeats": 4,
+            "Kills": 46,
+            "MostKillsInAGame": 4,
+            "Groggies": 0,
+            "MostGroggiesInAGame": 0
+          },
+          "Medals": null
+        },
+        "Item_Weapon_SKS_C": {
+          "XPTotal": 482134,
+          "LevelCurrent": 64,
+          "TierCurrent": 7,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 7,
+            "Defeats": 136,
+            "MostDamagePlayerInAGame": 582.8294868469238,
+            "DamagePlayer": 13047.190681695938,
+            "MostHeadShotsInAGame": 3,
+            "HeadShots": 41,
+            "LongestDefeat": 389.275634765625,
+            "LongRangeDefeats": 64,
+            "Kills": 136,
+            "MostKillsInAGame": 7,
+            "Groggies": 1,
+            "MostGroggiesInAGame": 1
+          },
+          "Medals": null
+        },
+        "Item_Weapon_Saiga12_C": {
+          "XPTotal": 8552,
+          "LevelCurrent": 4,
+          "TierCurrent": 1,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 2,
+            "Defeats": 5,
+            "MostDamagePlayerInAGame": 200.00002098083496,
+            "DamagePlayer": 503.85194206237793,
+            "MostHeadShotsInAGame": 1,
+            "HeadShots": 2,
+            "LongestDefeat": 15.6970853805542,
+            "LongRangeDefeats": 0,
+            "Kills": 5,
+            "MostKillsInAGame": 2,
+            "Groggies": 0,
+            "MostGroggiesInAGame": 0
+          },
+          "Medals": null
+        },
+        "Item_Weapon_Thompson_C": {
+          "XPTotal": 5676,
+          "LevelCurrent": 3,
+          "TierCurrent": 1,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 1,
+            "Defeats": 3,
+            "MostDamagePlayerInAGame": 100.00000381469727,
+            "DamagePlayer": 300.00000190734863,
+            "MostHeadShotsInAGame": 0,
+            "HeadShots": 0,
+            "LongestDefeat": 68.76731872558594,
+            "LongRangeDefeats": 0,
+            "Kills": 3,
+            "MostKillsInAGame": 1,
+            "Groggies": 0,
+            "MostGroggiesInAGame": 0
+          },
+          "Medals": null
+        },
+        "Item_Weapon_UMP_C": {
+          "XPTotal": 134178,
+          "LevelCurrent": 28,
+          "TierCurrent": 3,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 5,
+            "Defeats": 59,
+            "MostDamagePlayerInAGame": 467.1556396484375,
+            "DamagePlayer": 5571.169834136963,
+            "MostHeadShotsInAGame": 2,
+            "HeadShots": 18,
+            "LongestDefeat": 120.01319122314453,
+            "LongRangeDefeats": 1,
+            "Kills": 59,
+            "MostKillsInAGame": 5,
+            "Groggies": 2,
+            "MostGroggiesInAGame": 1
+          },
+          "Medals": null
+        },
+        "Item_Weapon_UZI_C": {
+          "XPTotal": 13977,
+          "LevelCurrent": 6,
+          "TierCurrent": 1,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 3,
+            "Defeats": 6,
+            "MostDamagePlayerInAGame": 222.65176010131836,
+            "DamagePlayer": 538.2172746658325,
+            "MostHeadShotsInAGame": 1,
+            "HeadShots": 2,
+            "LongestDefeat": 22.107555389404297,
+            "LongRangeDefeats": 0,
+            "Kills": 6,
+            "MostKillsInAGame": 3,
+            "Groggies": 0,
+            "MostGroggiesInAGame": 0
+          },
+          "Medals": null
+        },
+        "Item_Weapon_VSS_C": {
+          "XPTotal": 72945,
+          "LevelCurrent": 20,
+          "TierCurrent": 3,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 5,
+            "Defeats": 20,
+            "MostDamagePlayerInAGame": 384.5033016204834,
+            "DamagePlayer": 1996.2266693115234,
+            "MostHeadShotsInAGame": 2,
+            "HeadShots": 8,
+            "LongestDefeat": 134.86082458496094,
+            "LongRangeDefeats": 6,
+            "Kills": 20,
+            "MostKillsInAGame": 5,
+            "Groggies": 0,
+            "MostGroggiesInAGame": 0
+          },
+          "Medals": null
+        },
+        "Item_Weapon_Vector_C": {
+          "XPTotal": 58863,
+          "LevelCurrent": 17,
+          "TierCurrent": 2,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 4,
+            "Defeats": 26,
+            "MostDamagePlayerInAGame": 302.8139839172363,
+            "DamagePlayer": 2705.649351119995,
+            "MostHeadShotsInAGame": 2,
+            "HeadShots": 7,
+            "LongestDefeat": 155.53855895996094,
+            "LongRangeDefeats": 1,
+            "Kills": 26,
+            "MostKillsInAGame": 4,
+            "Groggies": 0,
+            "MostGroggiesInAGame": 0
+          },
+          "Medals": null
+        },
+        "Item_Weapon_Winchester_C": {
+          "XPTotal": 10592,
+          "LevelCurrent": 5,
+          "TierCurrent": 1,
+          "StatsTotal": {
+            "MostDefeatsInAGame": 2,
+            "Defeats": 5,
+            "MostDamagePlayerInAGame": 197.99999809265137,
+            "DamagePlayer": 457.1199560165405,
+            "MostHeadShotsInAGame": 1,
+            "HeadShots": 1,
+            "LongestDefeat": 17.604267120361328,
+            "LongRangeDefeats": 0,
+            "Kills": 5,
+            "MostKillsInAGame": 2,
+            "Groggies": 1,
+            "MostGroggiesInAGame": 1
+          },
+          "Medals": null
+        }
+      },
+      "latestMatchId": "35c75fc8-94d3-4096-b71d-5f0f8b5ab4d9"
+    }
+  },
+  "links": {
+    "self": "https://api.pubg.com/shards/xbox/players/account.7569100ed55f4406bfe2322bccd8e837/weapon_mastery"
+  },
+  "meta": {}
+}

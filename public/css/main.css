@@ -1,0 +1,539 @@
+body {
+    padding: 0;
+    background: url(../images/background/smoke.jpg) no-repeat;
+    background-size: cover;
+    color: white;
+    text-transform: uppercase;
+    margin: 0;
+    font-family: 'Teko', sans-serif;
+    letter-spacing: 2px;
+    font-size: 20px;
+    height: 100vh;
+    text-shadow: 2px 2px black;
+    background-attachment: fixed;
+    padding-top: 120px;
+}
+.loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    font-size: 40px;
+}
+header {
+    text-align: center;
+    margin-bottom: 50px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: #32323242;
+    padding-bottom: 15px;
+    z-index: 99;
+}
+.header-inner {
+    display: block;
+    position: relative;
+}
+nav {
+    display: inline-block;
+}
+.logo-container {
+    display: inline-block;
+    position: absolute;
+    left: 15px;
+    top: 15px;
+    height: 52px;
+    width: 185px;
+    background: url(../images/Assets/Logos/PUBG_Logo_White.png) no-repeat;
+    background-size: contain;
+}
+.main-menu {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0;
+    margin-top: 25px;
+}
+.main-menu .active {
+    color: white;
+    border-bottom: 1px solid white;
+}
+.main-menu .inactive {
+    color: silver;
+}
+.main-menu li {
+    margin: 10px;
+}
+.main-menu li a {
+    color: white;
+    text-decoration: none;
+}
+.options-menu {
+    position: absolute;
+    right: 15px;
+    top: 30px;
+    width: 30px;
+    height: 30px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+.content {
+    padding: 15px;
+}
+.main-title {
+    color: #a3cbd3;
+    font-size: 42px;
+    letter-spacing: 3.5px;
+    margin-top: 0;
+}
+.page-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.season-select {
+    display: flex;
+    align-items: center;
+}
+.season-select select {
+    margin-left: 15px;
+    background: black;
+    color: white;
+    font-size: 22px;
+    padding: 5px 15px;
+    text-transform: unset;
+    letter-spacing: 3px;
+    font-family: Teko;
+}
+.current-player {
+    text-transform: none;
+    position: relative;
+    color: orange;
+    padding-left: 24px;
+    font-size: 30px;
+}
+.find-player-form {
+    display: flex;
+    margin-top: 25px;
+    font-weight: bold;
+    font-family: Teko;
+    font-size: 22px;
+    letter-spacing: 2px;
+}
+.find-player-form label {
+    margin-right: 15px;
+}
+.find-player-form select {
+    margin-right: 15px;
+    text-transform: uppercase;
+    padding: 0 30px;
+    background: #0000006e;
+    color: white;
+    border: 1px solid silver;
+    border-radius: 5px;
+}
+.find-player-form input {
+    margin-right: 15px;
+    width: 500px;
+    font-size: 20px;
+    padding: 5px 10px;
+    background: #0000006e;
+    color: white;
+    border: 1px solid silver;
+    border-radius: 5px;
+}
+.find-player-form button {
+    background: green;
+    padding: 5px 25px;
+    border: 0;
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    font-family: Teko;
+    font-size: 22px;
+    letter-spacing: 2px;
+    border-radius: 5px;
+}
+ul {
+    padding: 0;
+    list-style: none;
+    margin: 0;
+}
+.tab {
+    cursor: pointer;
+}
+.tabs {
+    display:flex;
+    margin-bottom: 0;
+}
+.tabs li {
+    padding: 10px 30px;
+    cursor: pointer;
+}
+.tabs li.active {
+    background: #00000073;
+}
+.tabs li.in-active {
+    color: silver;
+}
+.sections {
+    display: flex;
+    justify-content: space-around;  
+}
+ul.section {
+    background: #00000073;
+    width: calc(100% / 3);
+    box-sizing: border-box;
+    margin: 2px;
+    padding: 15px;
+}
+ul.section li {
+    padding: 15px 0;
+    clear: both ;
+    border-bottom: 1px solid #c0c0c05c;
+    overflow: auto;
+    margin: 0 25px;
+}
+ul.section li h5{
+    float: left;
+}
+ul.section li span{
+    float: right;
+}
+ul.section li:first-child {
+    border-bottom: none;
+}
+ul.section li:last-child {
+    border-bottom: none;
+}
+ul.section li:first-child h5{
+    display: block;
+    text-align: left;
+    float: none;
+}
+ul.section li:first-child span{
+    display: block;
+    font-size: 55px;
+    text-align: left;
+    float: none;
+    color: orange;
+}
+#solo.mode-pane {
+    display: block;
+}
+.active-pane {
+    display: block;
+}
+.in-active-pane {
+    display: none;
+}
+.mode-panes {
+    background: #0000007d;
+    padding: 15px 25px;
+    height: calc(100vh - 225px);
+    overflow-y: scroll;
+}
+.mode-pane {
+    width: 100%;
+}
+.mode-pane h4 {
+
+}
+.mode-pane h5 {
+    display: inline-block;
+    margin: 5px 0;
+}
+.narrow-content {
+    width: 760px;
+    margin: 0 auto;
+    margin-top: 45px;
+}
+.current-key {
+    background: orange;
+    padding: 15px;
+    color: black;
+    text-shadow: none;
+    box-sizing: border-box;
+    word-break: break-all;
+    text-transform: none
+}
+.api-key-btn {
+    background: green;
+    color: white;
+    text-transform: uppercase;
+    width: 150px;
+    margin: 0 auto;
+    display: block;
+    margin-top: 25px;
+    border: 0;
+    padding: 12px 0;
+    border-radius: 5px;
+    font-size: 14px;
+}
+.api-key-textarea {
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 25px;
+    background: #00000073;
+    color: white;
+    border: 1px solid silver;
+    font-size: 20px;
+    height: 200px;
+    padding: 15px;
+    text-transform: none;
+    box-sizing: border-box;
+}
+.mastery-page {
+    padding: 15px;
+}
+.mastery-tabs {
+    display: flex;
+}
+.mastery-tabs li.tab {
+    margin-right: 10px;
+    padding: 10px 20px;
+    color: silver;
+    font-size: 26px;
+    position: relative;
+    top: 2px;
+}
+.emblem {
+    width: 60px;
+    height: 60px;
+    border-right: 1px solid #c0c0c038;
+    margin-right: 15px;
+}
+.weapon-stats {
+    background:#000000c9;
+    border-top: 1px solid #c0c0c0a3;
+    padding: 10px;
+    height: calc(100vh - 225px);
+}
+.weapons-category .inner{
+    display: flex;
+}
+.weapons-menu {
+    width: 300px;
+    color: silver;
+    height: calc(100vh - 225px);
+    overflow-y: scroll;
+}
+.weapons-menu li {
+    padding: 10px;
+    display: flex;
+    font-size: 25px;
+    cursor: pointer;
+    align-items: center;
+    background: #322e2e82;
+    margin-bottom: 5px;
+}
+.weapon-view {
+    width: calc(100% - 300px);
+    height: calc(100vh - 225px);
+    overflow-y: scroll;
+}
+.weapons-category.inactive {
+    display: none;
+}
+.weapons-category.active {
+    display: block;
+}
+.weapon-view ul.inactive {
+    display: none;
+}
+.weapon-view ul.active {
+    display: block;
+}
+.weapon-attr .top-pane .image {
+    width: 650px;
+    height: 450px;
+    transform: rotate(320deg);
+}
+.top-pane {
+    display: flex;
+}
+.top-pane .image-container {
+    width: 100%;
+    background: #15151573;
+    justify-content: center;
+    display: flex;
+    overflow: hidden;
+}
+.weapon-tab-weapon {
+    width: 100%;
+}
+.weapon-tab-weapon .xp-level-bar {
+    width: 100% !important;
+    position: relative;
+    bottom: 10px;
+}
+.weapon-tab-weapon .gauge {
+    height: 3px !important;
+}
+.weapon-tab-weapon .weapon-tab-lvl {
+    display: inline-block;
+    color: silver;
+    font-size: 16px;
+    position: relative;
+    bottom: 8px;
+}
+.tab-weapon-name {
+    position: relative;
+    top: 8px;
+}
+.cat-active {
+    background: #090909;
+    color: white !important;
+    border: 1px solid #c0c0c0a3;
+    border-bottom: 0;
+}
+.weapon-active {
+    border: 4px solid #ebbb38;
+    background: #786f6fb3;
+    color: white !important;
+
+}
+.weapon-inactive {
+    border: 4px solid transparent;
+}
+.w_HK416, .w_K2, .w_Kar98k, .w_Mosin, .w_P90, .w_Thompson, .w_M249, .w_MG3, .w_Mk12, .w_SKS, .w_ACE32, .w_L6 {
+    transform: rotate(0) !important;
+}
+.feat-stats ul li {
+    padding: 10px 25px;
+    border-bottom: 1px solid #c0c0c04a;
+    width: 200px;
+    margin: 2px;
+}
+.feat-stats ul li:last-child {
+    border-bottom: none;
+}
+.weapon-attr {
+    color: orange;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding: 4px;
+}
+.attr-stat {
+    font-size: 28px;
+    color: white;
+    margin-left: 5px;
+}
+.second-row ul {
+    display: flex;
+}
+.second-row ul li {
+    width: calc(25% - 20px);
+    margin: 10px;
+    background: #212026;
+    padding: 15px;
+}
+.second-row ul li div:first-child {
+    border-bottom: 1px solid black;
+    padding: 5px 0;
+}
+.second-row ul li div:last-child {
+    padding: 5px 0;
+}
+.second-row ul li div:last-child h5 {
+    color: silver;
+}
+.weapon-level {
+    display: flex;
+}
+.level-box {
+    background: #212026;
+    width: 50px;
+    padding: 15px;
+    margin: 6px 0 6px 6px;
+    color: white;
+    font-size: 30px;
+}
+.xp-level {
+    width: calc(100% - 118px);
+    background: #212026;
+    margin: 6px;
+    align-items: center;
+    display: flex;
+    padding-left: 10px;
+    color: silver;
+}
+.xp-level-bar {
+    width: calc(100% - 178px);
+    background: black;
+    margin-right: 15px;
+}
+.gauge {
+    height: 10px;
+    background: white;
+}
+.points-out-of {
+    margin-right: 15px;
+    width: 100px;
+}
+.percentage {
+    height: 100%;
+    align-items: center;
+    display: flex;
+    box-sizing: border-box;
+    border-left: 6px solid black;
+    color: orange;
+    font-size: 30px;
+    width: 70px;
+    justify-content: center;
+}
+.options-menu-bubble {
+    position: fixed;
+    right: 12px;
+    top: 75px;
+}
+.bubble {
+    position: relative;
+    width: 292px;
+    height: 140px;
+    padding: 10px;
+    background: #282525f5;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    border: #5a5050 solid 1px;
+    box-sizing: border-box;
+    text-align: left;
+}
+
+.bubble:after {
+    content: '';
+    position: absolute;
+    border-style: solid;
+    border-width: 0 15px 15px;
+    border-color: #272525 transparent;
+    display: block;
+    width: 0;
+    z-index: 1;
+    top: -15px;
+    left: 258px;
+}
+
+.bubble:before {
+    content: '';
+    position: absolute;
+    border-style: solid;
+    border-width: 0 15px 15px;
+    border-color: #7F7F7F transparent;
+    display: block;
+    width: 0;
+    z-index: 0;
+    top: -16px;
+    left: 258px;
+}
+
+.bubble li {
+    margin: 10px;
+}
+.bubble li a {
+    color: white;
+    text-decoration: none;
+    font-size: 24px;
+}
